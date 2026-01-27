@@ -50,7 +50,7 @@ Um das Projekt lokal auszuführen, folge diesen Schritten:
    ```
 
 4. **Anwendung öffnen**
-   Öffne [http://localhost:5173](http://localhost:5173) in deinem Browser.
+   Öffne <a href="http://localhost:5173" target="_blank">http://localhost:5173</a> in einem neuen Tab deines Browsers.
 
 ---
 
